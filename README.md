@@ -13,7 +13,7 @@ daily inventory snapshots) flows through schema-enforced bronze ingestion,
 quarantine pattern, and **Delta time travel** — landing in gold aggregate marts
 served by a Streamlit dashboard.
 
-> 🎬 **Live demo:** <live-demo-url>
+> 🎬 **Live demo:** [https://databricks-lakehouse-retail-hmugazzddtuvw4qnb878rw.streamlit.app/](https://databricks-lakehouse-retail-hmugazzddtuvw4qnb878rw.streamlit.app/)
 
 ## Architecture
 
