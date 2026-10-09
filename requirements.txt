@@ -1,0 +1,6 @@
+# Light, Streamlit-Cloud-friendly deps for the demo app only.
+# The Spark pipeline needs requirements-pipeline.txt (+ Java) instead.
+streamlit>=1.36.0
+pandas>=2.0.0
+pyarrow>=14.0.0
+plotly>=5.20.0

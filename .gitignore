@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.egg-info/
+.streamlit/
+spark-warehouse/
+*.delta/
+metastore_db/
+derby.log
+data/raw/
+gold/
+.DS_Store

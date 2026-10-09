@@ -1,0 +1,6 @@
+# Full pipeline deps. Requires Java 11 or 17 for PySpark.
+pyspark==3.5.3
+delta-spark==3.2.0
+pandas>=2.0.0
+pyarrow>=14.0.0
+pytest>=8.0.0
